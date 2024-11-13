@@ -20,3 +20,7 @@ pip install -r requirements.txt
 
 #TODO: To confirm how do I actually do :D
 I use jupyter lab for better interaction and demonstration, change the `alt_input` function to `input` in the website for test
+
+## Question List
+
+1. a010: 因數分解
